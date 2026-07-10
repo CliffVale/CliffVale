@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+
+# Generated files (regenerate with scripts)
+# info-card.svg  # Uncomment to track changes
+# avi-ascii.svg  # Uncomment to track changes
+
+# User photos
+*.jpg
+*.jpeg
+*.png
+!source-prepped.png
+
+# Temporary files
+*.tmp
+*.log
